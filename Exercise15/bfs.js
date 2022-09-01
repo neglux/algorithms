@@ -1,5 +1,5 @@
 /*
-    Implement a method called traverse to Binary Search Tree which is uses the Breadth First Search (BFS) algorithm to travel each node
+    Implement a method called traverse which is uses the Breadth First Search (BFS) algorithm to travel each node
 
     Implement the bfs algorithm iteratively
     ```
